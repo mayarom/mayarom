@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" alt="animated" />
-</p>
-
-<p align="center">
   <samp>
     I'm a highly motivated and independent individual with a strong desire to develop skills and excel in the technological field. Currently seeking a technological position to apply my skills and knowledge in a challenging and innovative environment.
   </samp>
@@ -38,3 +34,9 @@
   <a href="https://github.com/mayarom" target="_blank">
     <img src="https://img.shields.io/badge/-mayarom-black?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/mayarom/" alt="GitHub"></a>
 </p>
+
+<div style="width:100%;height:0;padding-bottom:65%;position:relative;">
+  <iframe src="https://giphy.com/embed/48FhEMYGWji8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
+<p><a href="https://giphy.com/gifs/spongebob-squarepants-leave-smooth-48FhEMYGWji8">via GIPHY</a></p>
+
