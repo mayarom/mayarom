@@ -38,4 +38,5 @@
   <a href="https://github.com/mayarom" target="_blank">
     <img src="https://img.shields.io/badge/-mayarom-black?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/mayarom/" alt="GitHub">
   </a>
-  <a href="https://mayacs.biz" alt="Mayacs">
+  <a href="https://mayacs.biz/home" target="_blank">Visit my website</a>
+
