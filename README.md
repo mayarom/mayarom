@@ -1,20 +1,25 @@
-<h1 align="center"><b>Maya Rom</b></h1>
+<h1 align="center">Maya Rom</h1>
 
 <p align="center">
-  <b>BSc in Computer Science and Mathematics<br> Ariel University, Israel 🇮🇱</b>
+  <i>Computer Science and Mathematics BSc student at Ariel University, Israel 🇮🇱</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayarom&label=Profile%20views&color=blueviolet&style=flat-square" alt="mayarom">
+  <a href="https://linkedin.com/in/maya-rom" target="_blank">
+    <img src="https://img.shields.io/badge/-Maya%20Rom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/maya-rom/" alt="LinkedIn"></a>
+  <a href="https://github.com/mayarom" target="_blank">
+    <img src="https://img.shields.io/badge/-mayarom-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mayarom/" alt="GitHub"></a>
+  <a href="https://twitter.com/mayarom_" target="_blank">
+    <img src="https://img.shields.io/badge/-@mayarom_-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/mayarom_" alt="Twitter"></a>
+  <a href="https://mayarom.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/-mayarom.github.io-green?style=flat-square&logo=Google-chrome&logoColor=white&link=https://mayarom.github.io" alt="Website"></a>
 </p>
-
-<h2 align="center"><b>About me</b></h2>
 
 <p align="center">
-  Hi, I'm Maya! I'm a computer science and mathematics student who's passionate about technology, problem-solving, and innovation. I'm currently seeking opportunities to grow and develop my skills as a developer.
+  <img src="https://komarev.com/ghpvc/?username=mayarom&label=Profile%20views&color=blue&style=flat-square" alt="mayarom">
 </p>
 
-<h2 align="center"><b>Skills</b></h2>
+<h3 align="center">Skills:</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java">
@@ -28,12 +33,3 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript">
 </p>
 
-<h2 align="center"><b>Connect with me</b></h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/maya-rom" target="_blank">
-    <img src="https://img.shields.io/badge/-Maya%20Rom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/maya-rom/" alt="LinkedIn"></a>
-  <a href="https://github.com/mayarom" target="_blank">
-    <img src="https://img.shields.io/badge/-mayarom-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mayarom/" alt="GitHub"></a>
-  <a href="https://twitter.com/mayarom_" target="_blank">
-    <img src="https://img.shields.io/badge/-@mayarom_-blue?style=flat-square&logo=Twitter&logoColor=white&link
