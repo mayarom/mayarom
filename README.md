@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Maya Rom 👋</h1>
+<h1 align="center">Hello, I'm Maya </h1>
 
 <p align="center">
   <b>Computer Science and Mathematics BSc Student</b>
