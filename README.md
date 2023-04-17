@@ -39,8 +39,8 @@
     <img src="https://img.shields.io/badge/-mayarom-black?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/mayarom/" alt="GitHub">
   </a>
   <p align="center">
-  <a href="https://mayacs.biz/home" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-Visit%20My%20Website-red?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Visit my website">
+<a href="https://mayacs.biz/home" target="_blank" style="display:inline-block;background-color:#4CAF50;color:white;padding:10px 20px;text-align:center;text-decoration:none;font-size:16px;border-radius:5px;border: none;">Visit my website</a>
+
   </a>
 </p>
 
