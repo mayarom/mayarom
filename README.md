@@ -35,8 +35,6 @@
     <img src="https://img.shields.io/badge/-mayarom-black?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/mayarom/" alt="GitHub"></a>
 </p>
 
-<div style="width:100%;height:0;padding-bottom:65%;position:relative;">
-  <iframe src="https://giphy.com/embed/48FhEMYGWji8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
 ![Spongebob leaving smoothly](https://media.giphy.com/media/48FhEMYGWji8/giphy.gif)
+
 
