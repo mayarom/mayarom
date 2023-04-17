@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" alt="animated" />
+</p>
+
+<p align="center">
   <samp>
     I'm a highly motivated and independent individual with a strong desire to develop skills and excel in the technological field. Currently seeking a technological position to apply my skills and knowledge in a challenging and innovative environment.
   </samp>
@@ -33,9 +37,3 @@
     <img src="https://img.shields.io/badge/-Maya%20Rom-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/maya-rom/" alt="LinkedIn"></a>
   <a href="https://github.com/mayarom" target="_blank">
     <img src="https://img.shields.io/badge/-mayarom-black?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/mayarom/" alt="GitHub"></a>
-</p>
-
-![Spongebob leaving smoothly](https://media.giphy.com/media/48FhEMYGWji8/giphy.gif)
-
-
-
