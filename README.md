@@ -38,5 +38,5 @@
 <div style="width:100%;height:0;padding-bottom:65%;position:relative;">
   <iframe src="https://giphy.com/embed/48FhEMYGWji8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
-![SpongeBob leaving smoothly](https://media.giphy.com/media/48FhEMYGWji8/giphy.gif)
+![Spongebob leaving smoothly](https://media.giphy.com/media/48FhEMYGWji8/giphy.gif)
 
