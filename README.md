@@ -1,10 +1,20 @@
-<h1 align="center">Hello, I'm Maya </h1>
+<h1 align="center">Hi, I'm Maya Rom 👋</h1>
 
 <p align="center">
-  <samp>A highly motivated and independent individual with a passion for technology and a strong desire to excel in the field. Seeking a challenging and innovative environment to apply my skills and knowledge.</samp>
+  <b>Computer Science and Mathematics BSc Student</b>
 </p>
 
-<h3 align="center">💻 Tech Stack</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" alt="animated" />
+</p>
+
+<p align="center">
+  <samp>
+    I'm a highly motivated and independent individual with a strong desire to develop skills and excel in the technological field. Currently seeking a technological position to apply my skills and knowledge in a challenging and innovative environment.
+  </samp>
+</p>
+
+<h2 align="center">Skills and Technologies</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java">
@@ -17,13 +27,13 @@
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git">
 </p>
 
-<h3 align="center">📫 Connect with Me</h3>
+<h2 align="center">Connect with Me 🤝🏼</h2>
 
 <p align="center">
-  <a href="[Your LinkedIn URL]" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[Your LinkedIn URL]" alt="LinkedIn"></a>
-  <a href="[Your GitHub URL]" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&logoColor=white&link=[Your GitHub URL]" alt="GitHub"></a>
-</p>
+  <a href="https://linkedin.com/in/maya-rom" target="_blank">
+    <img src="https://img.shields.io/badge/-Maya%20Rom-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/maya-rom/" alt="LinkedIn"></a>
+  <a href="https://github.com/mayarom" target="_blank">
+    <img src="https://img.shields.io/badge/-mayarom-black?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/mayarom/" alt="GitHub"></a>
