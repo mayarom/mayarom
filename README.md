@@ -41,7 +41,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/7DzlajZNY5D0I/giphy.gif" width="320" height="205">
-  <p><a href="https://giphy.com/gifs/girls-weird-sassy-7DzlajZNY5D0I">via GIPHY</a></p>
+  <p><a href="https://giphy.com/gifs/girls-weird-sassy-7DzlajZNY5D0I"></a></p>
 </div>
 
 
