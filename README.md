@@ -1,7 +1,8 @@
 <div align="center">
+  <img src="https://i.imgur.com/hmYLF6E.gif" alt="Maya Rom">
 </div>
 
-<h1 align="center">Hi, I'm Maya Rom </h1>
+<h1 align="center">Hi, I'm Maya Rom 👋</h1>
 
 <p align="center">
   <b>Computer Science and Mathematics BSc Student</b>
@@ -28,20 +29,4 @@
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git">
 </p>
-
-<h2 align="center">Connect with Me 🤝🏼</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/maya-rom" target="_blank">
-    <img src="https://img.shields.io/badge/-Maya%20Rom-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/maya-rom/" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/mayarom" target="_blank">
-    <img src="https://img.shields.io/badge/-mayarom-black?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/mayarom/" alt="GitHub">
-  </a>
-  <p align="center">
-<a href="https://mayacs.biz/home" target="_blank" style="display:inline-block;background-color:#4CAF50;color:white;padding:10px 20px;text-align:center;text-decoration:none;font-size:16px;border-radius:5px;border: none;">Visit my website</a>
-
-  </a>
-</p>
-
 
