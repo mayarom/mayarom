@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Maya 👋</h1>
+<h1 align="center">Hello, I'm Maya </h1>
 
 <p align="center">
   <samp>A highly motivated and independent individual with a passion for technology and a strong desire to excel in the field. Seeking a challenging and innovative environment to apply my skills and knowledge.</samp>
