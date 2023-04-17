@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Maya Rom 👋</h1>
 
 <p align="center">
@@ -28,13 +27,14 @@
 </p>
 
 <h2 align="center">Connect with Me 🤝🏼</h2>
+
 <p align="center">
   <a href="https://linkedin.com/in/maya-rom" target="_blank">
     <img src="https://img.shields.io/badge/-Maya%20Rom-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/maya-rom/" alt="LinkedIn"></a>
   <a href="https://github.com/mayarom" target="_blank">
     <img src="https://img.shields.io/badge/-mayarom-black?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/mayarom/" alt="GitHub"></a>
   <br>
-  <a href="https://mayacs.biz/home" target="_blank" style="display: inline-block; background-color: #FF69B4; color: #FFFFFF; padding: 1rem 2rem; border-radius: 50px; text-decoration: none; font-weight: bold; text-transform: uppercase; letter-spacing: 0.1rem; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); transition: all 0.3s ease-in-out;">Visit my website</a>
-</p>
-
+  <a href="https://mayacs.biz/home" target="_blank" style="display: inline-block; background-color: #FF69B4; color: #FFFFFF; padding: 1rem 2rem; border-radius: 30px; text-decoration: none; font-weight: bold; text-transform: uppercase; letter-spacing: 0.1rem; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); transition: all 0.3s ease-in-out;">
+    Visit my website
+</a>
 
