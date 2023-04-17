@@ -5,15 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/10dVtLFak9iBPO/giphy.gif" alt="animated" />
-</p>
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" alt="animated" />
-</p>
-
-<p align="center">
   <samp>
     I'm a highly motivated and independent individual with a strong desire to develop skills and excel in the technological field. Currently seeking a technological position to apply my skills and knowledge in a challenging and innovative environment.
   </samp>
@@ -72,3 +63,4 @@
     <img src="https://img.shields.io/badge/-Maya%20Rom-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/maya-rom/" alt="LinkedIn"></a>
   <a href="https://github.com/mayarom" target="_blank">
     <img src="https://img.shields.io/badge/-mayarom-black?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/mayarom/" alt="GitHub"></a>
+<iframe src="https://giphy.com/embed/48FhEMYGWji8" width="480" height="310" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/spongebob-squarepants-leave-smooth-48FhEMYGWji8">via GIPHY</a></p>
