@@ -34,8 +34,8 @@
   <a href="https://github.com/mayarom" target="_blank">
     <img src="https://img.shields.io/badge/-mayarom-black?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/mayarom/" alt="GitHub"></a>
 </p>
-<h2 align="center">
+
 ![Spongebob leaving smoothly](https://media.giphy.com/media/48FhEMYGWji8/giphy.gif)
-  </h2>
+
 
 
