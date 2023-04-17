@@ -5,11 +5,9 @@
 </p>
 
 <p align="center">
-<h1 align="center">Hi, I'm Maya Rom 👋</h1>
-
-<p align="center">
-  <b>Computer Science and Mathematics BSc Student</b>
+  <img src="https://media.giphy.com/media/10dVtLFak9iBPO/giphy.gif" alt="animated" />
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" alt="animated" />
