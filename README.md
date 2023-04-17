@@ -37,4 +37,7 @@
   <a href="https://mayacs.biz/home" target="_blank" style="display: inline-block; background-color: #FF69B4; color: #FFFFFF; padding: 1rem 2rem; border-radius: 30px; text-decoration: none; font-weight: bold; text-transform: uppercase; letter-spacing: 0.1rem; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); transition: all 0.3s ease-in-out;">
     Visit my website
 </a>
+  
+  <iframe src="https://giphy.com/embed/7DzlajZNY5D0I" width="320" height="205" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/girls-weird-sassy-7DzlajZNY5D0I">via GIPHY</a></p>
+
 
