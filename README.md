@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/hmYLF6E.gif" alt="Maya Rom">
-</div>
 
 <h1 align="center">Hi, I'm Maya Rom 👋</h1>
 
@@ -38,5 +35,5 @@
   <a href="https://github.com/mayarom" target="_blank">
     <img src="https://img.shields.io/badge/-mayarom-black?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/mayarom/" alt="GitHub"></a>
   <br>
-    <a href="https://mayacs.biz/home" target="_blank" style="margin-top: 1.5rem; text-decoration: none; color: #00ffff; border: 2px solid #00ffff; border-radius: 10px; padding: 0.75rem 1.5rem; font-size: 1.1rem; font-weight: bold; transition: all 0.3s ease-in-out;">Visit my website</a>
+  <a href="https://mayacs.biz/home" target="_blank" style="margin-top: 1.5rem; text-decoration: none; color: #00ffff; border: 2px solid #00ffff; border-radius: 10px; padding: 0.75rem 1.5rem; font-size: 1.1rem; font-weight: bold; transition: all 0.3s ease-in-out;">Visit my website</a>
 </p>
