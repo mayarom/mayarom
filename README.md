@@ -34,7 +34,9 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/maya-rom" target="_blank">
-    <img src="https://img.shields.io/badge/-Maya%20Rom-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/maya-rom/" alt="LinkedIn"></a>
+    <img src="https://img.shields.io/badge/-Maya%20Rom-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/maya-rom/" alt="LinkedIn">
+  </a>
   <a href="https://github.com/mayarom" target="_blank">
-    <img src="https://img.shields.io/badge/-mayarom-black?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/mayarom/" alt="GitHub"></a>
-  <a href="https://mayacs.biz/home" target="_blank">
+    <img src="https://img.shields.io/badge/-mayarom-black?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/mayarom/" alt="GitHub">
+  </a>
+  <a href="https://mayacs.biz" alt="Mayacs">
