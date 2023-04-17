@@ -40,9 +40,10 @@
 </p>
 
 <div align="center">
-  <iframe src="https://giphy.com/embed/7DzlajZNY5D0I" width="320" height="205" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <img src="https://media.giphy.com/media/7DzlajZNY5D0I/giphy.gif" width="320" height="205">
   <p><a href="https://giphy.com/gifs/girls-weird-sassy-7DzlajZNY5D0I">via GIPHY</a></p>
 </div>
+
 
 
 
