@@ -13,8 +13,8 @@
     <img src="https://img.shields.io/badge/-mayarom-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mayarom/" alt="GitHub"></a>
   <a href="https://twitter.com/mayarom_" target="_blank">
     <img src="https://img.shields.io/badge/-@mayarom_-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/mayarom_" alt="Twitter"></a>
-  <a href="https://mayarom.com" target="_blank">
-    <img src="https://img.shields.io/badge/-mayarom.com-green?style=flat-square&logo=Google-chrome&logoColor=white&link=https://mayarom.com" alt="Website"></a>
+  <a href="https://mayarom.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/-mayarom.github.io-green?style=flat-square&logo=Google-chrome&logoColor=white&link=https://mayarom.github.io" alt="Website"></a>
 </p>
 
 <p align="center">
@@ -32,4 +32,4 @@
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logo
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor
