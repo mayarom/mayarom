@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/hmYLF6E.gif" alt="Maya Rom">
-</div>
 
 <h1 align="center">Hi, I'm Maya Rom 👋</h1>
 
