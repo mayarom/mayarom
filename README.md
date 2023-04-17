@@ -1,20 +1,15 @@
 <h1 align="center">Hello, I'm Maya</h1>
 
-<p align="center">
-  <b>Computer Science and Mathematics BSc Student</b>
+<p align="center" style="font-size: 18px;">
+  <b>I'm a highly motivated and independent individual with a strong desire to develop skills and excel in the technological field. Currently seeking a technological position to apply my skills and knowledge in a challenging and innovative environment.</b>
 </p>
 
-<p align="center">
-  <samp>
-    I'm a highly motivated and independent individual with a strong desire to develop skills and excel in the technological field. Currently seeking a technological position to apply my skills and knowledge in a challenging and innovative environment.
-  </samp>
-</p>
-
-<ul>
-  <li>Founder and Business Owner at MayaCS, online <a href="https://mayacs.biz/home" target="_blank" style="display: inline-block; background-color: #FF69B4; color: #FFFFFF; padding: 0.5rem 1rem; border-radius: 30px; text-decoration: none; font-weight: bold; text-transform: uppercase; letter-spacing: 0.1rem; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); transition: all 0.3s ease-in-out;">Visit Website</a></li>
-  <li>Practitioner and Checking assignments in university at Ariel University</li>
-  <li>Team Leader at Cyber Education Center's</li>
+<ul style="list-style-type: none;">
+  <li style="font-size: 16px;">Founder and Business Owner at MayaCS, online <a href="https://mayacs.biz/home" target="_blank" style="display: inline-block; background-color: #FF69B4; color: #FFFFFF; padding: 0.5rem 1rem; border-radius: 30px; text-decoration: none; font-weight: bold; text-transform: uppercase; letter-spacing: 0.1rem; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); transition: all 0.3s ease-in-out;">Visit Website</a></li>
+  <li style="font-size: 16px;">Practitioner and Checking assignments in university at Ariel University</li>
+  <li style="font-size: 16px;">Team Leader at Cyber Education Center's</li>
 </ul>
+
 
 
 <h2 align="center">Skills and Technologies</h2>
