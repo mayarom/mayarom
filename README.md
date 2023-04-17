@@ -34,5 +34,6 @@
   <a href="https://github.com/mayarom" target="_blank">
     <img src="https://img.shields.io/badge/-mayarom-black?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/mayarom/" alt="GitHub"></a>
   <br>
-  <a href="https://mayacs.biz/home" target="_blank" style="margin-top: 1.5rem; text-decoration: none; color: #ffffff; background-color: #00ffff; border: none; border-radius: 10px; padding: 0.75rem 1.5rem; font-size: 1.1rem; font-weight: bold; transition: all 0.3s ease-in-out;">Visit my website</a>
+ <a href="https://mayacs.biz/home" target="_blank" style="display: inline-block; background-color: #00ffff; color: #ffffff; padding: 1rem 2rem; border-radius: 50px; text-decoration: none; font-weight: bold; text-transform: uppercase; letter-spacing: 0.1rem; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); transition: all 0.3s ease-in-out;">Visit my website</a>
+
 </p>
