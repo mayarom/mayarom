@@ -1,3 +1,5 @@
+<div style="border: 2px solid black; padding: 20px;">
+
 <h1 align="center">Hello, I'm Maya</h1>
 
 <p align="center" style="font-size: 18px;">
@@ -43,6 +45,9 @@
   <img src="https://media.giphy.com/media/7DzlajZNY5D0I/giphy.gif" width="320" height="205">
   <p><a href="https://giphy.com/gifs/girls-weird-sassy-7DzlajZNY5D0I"></a></p>
 </div>
+  
+  </div>
+  
 
 
 
