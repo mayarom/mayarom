@@ -30,7 +30,7 @@
 <h2 align="center">Connect with Me 🤝🏼</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/maya-rom" target="_blank">
+  <a href="[https://linkedin.com/in/maya-rom](https://www.linkedin.com/in/maya-rom-04458b1b4/)" target="_blank">
     <img src="https://img.shields.io/badge/-Maya%20Rom-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/maya-rom/" alt="LinkedIn"></a>
   <a href="https://github.com/mayarom" target="_blank">
     <img src="https://img.shields.io/badge/-mayarom-black?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/mayarom/" alt="GitHub"></a>
