@@ -6,7 +6,8 @@
 <ul style="list-style-type: none;">
   <li style="font-size: 16px;">Founder and Business Owner at MayaCS, online <a href="https://mayacs.biz/home" target="_blank" style="display: inline-block; background-color: #FF69B4; color: #FFFFFF; padding: 0.5rem 1rem; border-radius: 30px; text-decoration: none; font-weight: bold; text-transform: uppercase; letter-spacing: 0.1rem; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); transition: all 0.3s ease-in-out;">Visit Website</a></li>
   <li style="font-size: 16px;">Practitioner and Checking assignments in university at Ariel University</li>
-  <li style="font-size: 16px;">Team Leader at Cyber Education Center's</li>
+  <li style="font-size: 16px;">
+Cyber Security Engineer - EPAM Systems</li>
 </ul>
 
 
