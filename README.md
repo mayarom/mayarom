@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Maya 😊</h1>
 <p align="center" style="font-size: 18px;">
-  <b>I'm a highly motivated and independent individual with a strong desire to develop skills and excel in the technological field. Currently seeking a technological position to apply my skills and knowledge in a challenging and innovative environment.</b>
+  <b> El El Israel </b>
 </p>
 
 <ul style="list-style-type: none;">
