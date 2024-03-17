@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Maya 😊</h1>
 <p align="center" style="font-size: 18px;">
-  <b> Cyber Security Engineer - EPAM Systems </b>
+  <b> Cyber Security Consultant - CWG </b>
 </p>
 
 <ul style="list-style-type: none;">
