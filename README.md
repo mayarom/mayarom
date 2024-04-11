@@ -6,6 +6,13 @@
 </div>
 
 
+<p align="center" style="font-size: 16px;">So, what can you find here?</p>
+<ul style="list-style-type: none; text-align: center;">
+  <li style="font-size: 16px; margin: 10px;">💻 <strong>Information Security Testing Optimization Scripts:</strong> Scripts I've developed to streamline and enhance efficiency in information security testing.</li>
+  <li style="font-size: 16px; margin: 10px;">🛠️ <strong>Personal Projects:</strong> Projects built in my free time to explore new ideas and technologies.</li>
+  <li style="font-size: 16px; margin: 10px;">🎓 <strong>Academic Projects:</strong> Projects completed as part of my undergraduate studies in computer science and mathematics.</li>
+</ul> 
+
 <h2 align="center">Skills and Technologies</h2>
 
 <p align="center">
@@ -22,12 +29,6 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git">
 </p>
 
-<p align="center" style="font-size: 16px;">So, what can you find here?</p>
-<ul style="list-style-type: none; text-align: center;">
-  <li style="font-size: 16px; margin: 10px;">💻 <strong>Information Security Testing Optimization Scripts:</strong> Scripts I've developed to streamline and enhance efficiency in information security testing.</li>
-  <li style="font-size: 16px; margin: 10px;">🛠️ <strong>Personal Projects:</strong> Projects built in my free time to explore new ideas and technologies.</li>
-  <li style="font-size: 16px; margin: 10px;">🎓 <strong>Academic Projects:</strong> Projects completed as part of my undergraduate studies in computer science and mathematics.</li>
-</ul> 
 
 <h2 align="center">Connect with Me 🤝🏼</h2>
 
