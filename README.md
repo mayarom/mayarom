@@ -2,7 +2,7 @@
 <p align="center" style="font-size: 20px; font-weight: bold;">Third Year Computer Science Student & Full-Time Cyber Security Consultant</p>
 
 <div align="center" style="margin: 20px;">
-  <span style="background-color: #4CAF50; color: white; padding: 8px 15px; text-align: center; border-radius: 5px; display: inline-block;">Empowering the Future of Tech</span>
+  <span style="background-color: #4CAF50; color: white; padding: 8px 15px; text-align: center; border-radius: 5px; display: inline-block;"></span>
 </div>
 
 <h2 align="center" style="color: #333366;">Professional Journey</h2>
