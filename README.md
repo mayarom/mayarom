@@ -4,11 +4,9 @@
 </p>
 
 <ul style="list-style-type: none;">
-  <li style="font-size: 16px;">Founder and Business Owner at MayaCS, online <a href="https://mayacs.biz/home" target="_blank" style="display: inline-block; background-color: #FF69B4; color: #FFFFFF; padding: 0.5rem 1rem; border-radius: 30px; text-decoration: none; font-weight: bold; text-transform: uppercase; letter-spacing: 0.1rem; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); transition: all 0.3s ease-in-out;">Visit Website</a></li>
+  <li style="font-size: 16px;">Conducting private, group, and marathon sessions for undergraduate students in Computer Science and Mathematics.</li>
   <li style="font-size: 16px;">Practitioner and Checking assignments in university at Ariel University</li>
 </ul>
-
-
 
 <h2 align="center">Skills and Technologies</h2>
 
@@ -29,7 +27,7 @@
 <h2 align="center">Connect with Me 🤝🏼</h2>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/maya-rom](https://www.linkedin.com/in/maya-rom-04458b1b4/)" target="_blank">
+  <a href="https://www.linkedin.com/in/maya-rom-04458b1b4/" target="_blank">
     <img src="https://img.shields.io/badge/-Maya%20Rom-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/maya-rom/" alt="LinkedIn"></a>
   <a href="https://github.com/mayarom" target="_blank">
     <img src="https://img.shields.io/badge/-mayarom-black?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/mayarom/" alt="GitHub"></a>
@@ -37,14 +35,8 @@
   
 </p>
 
-  <div align="center">
+<div align="center">
     <img src="https://media.giphy.com/media/7DzlajZNY5D0I/giphy.gif" width="320" height="205">
     <p><a href="https://giphy.com/gifs/girls-weird-sassy-7DzlajZNY5D0I"></a></p>
-  </div>
 </div>
- 
-  
-
-
-
-
+</div>
