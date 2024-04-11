@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I'm Maya 😊</h1>
-<p align="center" style="font-size: 20px; font-weight: bold;">Third Year Computer Science Student & Full-Time Cyber Security Consultant</p>
+<p align="center" style="font-size: 20px; font-weight: bold; animation: color-change 2s infinite alternate;">Third Year Computer Science Student & Full-Time Cyber Security Consultant</p>
+
 
 <div align="center" style="margin: 20px;">
   <span style="background-color: #4CAF50; color: white; padding: 8px 15px; text-align: center; border-radius: 5px; display: inline-block;"></span>
