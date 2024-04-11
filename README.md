@@ -4,8 +4,8 @@
 </p>
 
 <ul style="list-style-type: none;">
-  <li style="font-size: 16px;">Conducting private, group, and marathon sessions for undergraduate students in Computer Science and Mathematics.</li>
-  <li style="font-size: 16px;">Practitioner and Checking assignments in university at Ariel University</li>
+  <li style="font-size: 16px;">Owner of a business specializing in delivering marathons, private, and group sessions for undergraduate students in Computer Science and Mathematics, pre-academic preparatory programs, and high school students of all levels, boasting extensive experience in these areas since 2022.</li>
+  <li style="font-size: 16px;">Served as an assignments checker for a variety of mathematical and programming courses, and as a teaching assistant for the "Data Structures" course at Ariel University.</li>
 </ul>
 
 <h2 align="center">Skills and Technologies</h2>
