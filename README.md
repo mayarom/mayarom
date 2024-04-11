@@ -1,12 +1,32 @@
 <h1 align="center">Hello, I'm Maya 😊</h1>
-<p align="center" style="font-size: 18px;">
-  <b>Cyber Security Consultant</b>
+<p align="center" style="font-size: 20px; font-weight: bold;">Third Year Computer Science Student & Full-Time Cyber Security Consultant</p>
+
+<div align="center" style="margin: 20px;">
+  <span style="background-color: #4CAF50; color: white; padding: 8px 15px; text-align: center; border-radius: 5px; display: inline-block;">Empowering the Future of Tech</span>
+</div>
+
+<h2 align="center" style="color: #333366;">Professional Journey</h2>
+<ul style="list-style-type: none; text-align: center;">
+  <li style="font-size: 16px; margin: 10px;">🚀 Engaging in marathons and group lessons for undergrads in <strong>Computer Science and Mathematics</strong>.</li>
+  <li style="font-size: 16px; margin: 10px;">📘 Teaching Assistant for the "Data Structures" course at <strong>Ariel University</strong>.</li>
+  <li style="font-size: 16px; margin: 10px;">📝 Checker for assignments in various mathematical and programming courses.</li>
+  <li style="font-size: 16px; margin: 10px;">🌟 Participant in the "Magshimim" Cyber Education Program.</li>
+</ul>
+
+<h2 align="center" style="color: #333366;">Connect with Me 🤝🏼</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/maya-rom-04458b1b4/" target="_blank">
+    <img src="https://img.shields.io/badge/-Maya%20Rom-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/maya-rom/" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/mayarom" target="_blank">
+    <img src="https://img.shields.io/badge/-mayarom-black?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/mayarom/" alt="GitHub">
+  </a>
 </p>
 
-<ul style="list-style-type: none;">
-  <li style="font-size: 16px;">Conducting marathons and group lessons for undergraduate students in Computer Science and Mathematics.</li>
-  <li style="font-size: 16px;">Teaching assistant for the "Data Structures" course at Ariel University and assignment checker for mathematical and programming courses.</li>
-</ul>
+<div align="center">
+  <img src="https://media.giphy.com/media/7DzlajZNY5D0I/giphy.gif" width="320" height="205" style="margin-top: 20px;">
+</div>
+
 
 <h2 align="center">Skills and Technologies</h2>
 
